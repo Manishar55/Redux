@@ -12,7 +12,7 @@ const Counter=()=>{
     return (
         <div>
             <button onClick={()=>dispatch(increment())}> 
-                Increment
+                Incrementt
             </button>
 
             <br></br>
@@ -22,7 +22,7 @@ const Counter=()=>{
             <br></br>
 
             <button onClick={()=>dispatch(decrement())}>
-                Decrement
+                Decrementt
             </button>
         </div>
     )
